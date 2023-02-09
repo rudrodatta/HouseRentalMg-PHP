@@ -1,0 +1,17 @@
+**Database Name: house_rental**
+
+**Developed by Megha Singh**
+
+**Recommended PHP Version 5.6.3**
+
+
+**Owner's Login** 
+
+Email:	  harry@gmail.com
+Password: password
+
+
+**Tenant Login**
+
+Email:	  spellfrancis@gmail.com
+Password: password
